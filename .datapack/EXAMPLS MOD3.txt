@@ -1,0 +1,6 @@
+easy_num : 25
+mid_num : 5
+high_num : 1
+mid_tries : -1
+---
+comments go after the three "-"

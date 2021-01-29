@@ -1,0 +1,14 @@
+easy_num : 10
+mid_num : 15
+high_num : 8
+mid_tries : 5
+---
+This is the modification file, you can use this to modify the default values.
+easy_num is the numbers given in easy mode.
+mid_num and high_num is the same as above.
+mid_tries is the max number of times you can get corrected in "medium" game mode. You can type -1, for infinite trials.
+"---" to end the mod file, you can type anything after it (comments)
+
+any *_num value above 20 makes the program a bit slower
+
+also dont forget to save this file and re-initialise the virtual machine!
