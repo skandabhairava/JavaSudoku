@@ -38,7 +38,7 @@ We made a sudoku code to provide entertainment for people and give a unique and 
 
 
 CODE
-DOWNLOAD LINK
+https://github.com/skandabhairava/JavaSudoku
 
 
 
